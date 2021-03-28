@@ -1,2 +1,2 @@
-# vk-slaves-python-bot
+# vk-slave
 Рабочая версия бота @AKonLegend
